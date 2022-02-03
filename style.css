@@ -170,7 +170,10 @@ ul {
 
 .highlight {
   display: inline-block;
-  padding: 0.5rem 0.7rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   color: var(--white) !important;
   background-color: var(--black) !important;
 }
