@@ -172,7 +172,7 @@ ul {
   display: inline-block;
   padding: 0.5rem 0.7rem;
   color: var(--white) !important;
-  background-color: var(--black) !important;
+  /* background-color: var(--black) !important; */
 }
 
 .container::after {
